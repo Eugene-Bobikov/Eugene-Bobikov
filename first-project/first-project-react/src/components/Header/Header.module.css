@@ -1,0 +1,15 @@
+.header {
+  grid-area: header;
+  background-color: aliceblue;
+}
+.header img {
+  width: 50px;
+  padding: 5px;
+  padding-left: 10px;
+}
+
+.loginBlock {
+  line-height: 4em;
+  padding-right: 20px;
+  float: right;
+}

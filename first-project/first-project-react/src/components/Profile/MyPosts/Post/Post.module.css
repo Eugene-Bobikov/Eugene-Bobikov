@@ -1,0 +1,10 @@
+.item {
+  color: darkslategray;
+  padding-top: 10px;
+}
+
+.item img {
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+}
